@@ -14,11 +14,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mansour Spotify Playing" width="350" />](https://open.spotify.com/playlist/6uLpdsLbJKkS4GKYRhUVky?si=5e40584ecbaf4b09)
+[<img src="https://cdn.worldvectorlogo.com/logos/spotify-1.svg" alt="Mansour Spotify Playing" width="350" />](https://open.spotify.com/playlist/6uLpdsLbJKkS4GKYRhUVky?si=5e40584ecbaf4b09)
 
 ### Connect with me:
 
-[<img align="left" alt="mansourmahamatsalle.com" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-earth-2.svghttps://cdn.worldvectorlogo.com/logos/google-earth-2.svghttps://cdn.worldvectorlogo.com/logos/google-earth-2.svg" />][website]
+[<img align="left" alt="mansourmahamatsalle.com" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-earth-2.svg" />][website]
 [<img align="left" alt="mansourmahamatsalle | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="mansourmahamatsalle | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
@@ -96,12 +96,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://mansour-mahamat-salle.netlify.app/
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Mans_JS
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/mansour-mahamat-salle-138b73138/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
