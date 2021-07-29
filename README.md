@@ -4,7 +4,6 @@
 
 ## I'm a FontEnd Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything especially Javascrip 🙌
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
