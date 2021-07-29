@@ -4,10 +4,10 @@
 
 ## I'm a FontEnd Developer !!
 
-- 🌱 I’m currently learning everything especially Javascrip 🙌
+- 🌱 I’m currently learning everything especially Javascript 🙌
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love to do sport 🥋, travel 🛫 and cooking 🧆
+- ⚡ Fun fact: I love to do sport (BJJ, MMA 😭) 🥋, travel 🛫 and cooking 🧆
 
 
 
