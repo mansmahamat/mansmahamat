@@ -1,11 +1,13 @@
 ### Hi there, I'm Mansour 👋
 
 
+### My portfolio (https://mansour-mahamat-salle.netlify.app/)
+
 
 ## I'm a FontEnd Developer !!
 
 - 🌱 I’m currently learning everything especially Javascript 🙌
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to do sport (BJJ, MMA 😭) 🥋, travel 🛫 and cooking 🧆
 
